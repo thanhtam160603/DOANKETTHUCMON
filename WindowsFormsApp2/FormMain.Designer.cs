@@ -232,8 +232,7 @@ namespace quanlyhoso
             this.dateTimePicker_Min.Location = new System.Drawing.Point(228, 15);
             this.dateTimePicker_Min.Name = "dateTimePicker_Min";
             this.dateTimePicker_Min.Size = new System.Drawing.Size(197, 22);
-            this.dateTimePicker_Min.TabIndex = 9;
-            this.dateTimePicker_Min.ValueChanged += new System.EventHandler(this.dateTimePicker_Min_ValueChanged);
+            this.dateTimePicker_Min.TabIndex = 9
             // 
             // label2
             // 
